@@ -14,6 +14,11 @@ public class Main {
 
         System.out.println("Hello World!");
 
+        //sout for system.out.println
+
+        System.out.println("Bro Code!");
+        System.out.println("SUIIII!");
+        System.out.println("Hala Madrid!");
 
     }
 }
